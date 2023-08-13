@@ -1,0 +1,32 @@
+body{padding-top: 750px
+    ;margin: 0;}
+  .im{border-radius: 10px;width:400px;height:500px}  
+  #welcome{background:linear-gradient(rgb(234, 97, 97) 0%, rgb(251, 200, 104) 25%, rgb(254, 254, 102) 50%, rgb(103, 238, 103) 75%, rgb(95, 95, 238) 100%);
+    position: absolute;overflow: hidden;left: 0; top: 0; bottom: 0; z-index:9; right: 0; opacity: 0.83;display: table; width: 100%; height: 100%;
+
+ 
+    ;}
+    #tim{font-family: cursive  ;font-size:25px; color:white}
+    .menu{
+list-style: none;position:absolute;z-index:10 ;cursor:pointer;top:10px;right:30px
+}
+.list{
+padding-bottom: 5px;
+padding-top: 5px;
+padding-left: 10px;
+padding-right: 10px;
+float: left;
+font-size: 20px;font-family:cursive ;color: whitesmoke;background-color: palevioletred
+;
+}
+.list:hover{font-size: 30px;}
+.inner{
+  text-align: center;vertical-align: middle;position: relative;display: table-cell; 
+}
+#bio{padding:200px;text-align: center;background-color: antiquewhite;}
+p{ font-size:30px ;color :rgb(27, 3, 49);margin: 25px auto;line-height:1 ;}
+.art{font-size: 15px;color: aquamarine;font-weight: bold;}
+.p{background-color: bisque;}
+.p h3{display: inline;color: blueviolet;}
+#a{border-radius: 10px;width:400px;height:400px}
+#games{background-color: aquamarine;}
